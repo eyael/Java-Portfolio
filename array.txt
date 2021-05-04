@@ -1,0 +1,11 @@
+array is a list of an item
+element is each individual item in array 
+index is the place where we specifically get the individual record 
+
+length is are the length of element in an array
+
+5001 seminary rd 
+
+5714235801
+
+eyaelja1

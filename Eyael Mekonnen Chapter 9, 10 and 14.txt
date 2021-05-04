@@ -1,0 +1,44 @@
+1 True
+2 False
+3 True
+4 True
+5 True
+6 True
+7 False
+8 True
+9 True
+10 True
+11 False
+12 False
+13 True
+14 True
+15 True
+
+Multiple Ch0ise 
+
+16 D
+17 B
+18 A
+19 C
+20 B
+21 C
+22 B
+23 A
+24 B
+25 A
+26 C
+27 B
+28 B 
+
+29 select * from doctor
+30 select * from inventory where inStock > 100;
+31 select accountType, accountLimit 
+   from account 
+   where accountType = 'savings' and accountLimit  > 100000
+
+32 select * from movie
+   order by movieName asc
+
+33 select customerLastName, bankName 
+   from customer inner join bank
+   on customer.bankID= bank.bankID

@@ -1,0 +1,41 @@
+Chapter 6
+1 True
+2 False
+3 True
+4 True
+5 True
+6 True
+7 A
+8 B
+9 A
+10 B
+11 D
+12 B
+13 B
+14 D
+15 C
+
+Chapter 7 
+
+1 True
+2 False
+3 True
+4 True
+5 True
+6 True
+
+7 B
+8 C
+9 D
+10 B
+11 B
+12 A
+13 C
+14 C
+15 A
+16 D
+17 D
+18 A
+19 C
+20 B 
+

@@ -1,0 +1,44 @@
+IPO
+
+Input					Prosessing 									Output
+
+name					Calculate the cost for each item (price * quantity)
+					Calculate the sub-total (the sum of each item's cost)
+					Calculate the sales tax (only if taxable is TRUE for 		the item)
+					Calculate the total amount (subtotal + sales tax)
+				Format all decimals to two decimal places. See Formatting Numbers.			subtotal
+address															sales tax
+date															total
+accountnum
+
+item
+price
+quantity
+taxable 
+
+if taxable ur state
+
+addAnother?
+
+
+
+
+
+
+
+
+
+
+Invoice             Item  
+
+         
+ 
+Main
+
+Arraylist<Invoice> invoices = new ArrayList<Invoice>();
+Arraylist<Item> invoices = new ArrayList<Item>();
+
+
+
+
+
